@@ -6,4 +6,17 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="app_name">Profile</string>
+    <string name="name">Rohan Sharma</string>
+    <string name="details">
+
+    "    Email : rohansh11@gmail.com
+    Age : 36
+    Gender : Male
+    Known Alergies : None
+    Emergency contacts :
+        Maa-9882124091,
+        Papa-9182214128
+    Insurance : Max Bupa"
+    </string>
 </resources>
